@@ -1,4 +1,4 @@
-import 'package:animations/theme-switcher/home.dart';
+import 'package:animations/theme_switcher/home.dart';
 import 'package:flutter/material.dart';
 
 class ThemeOverlayWidget extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:animations/main.dart';
-import 'package:animations/theme-switcher/widgets/overlay_widget.dart';
+import 'package:animations/theme_switcher/app.dart';
+import 'package:animations/theme_switcher/widgets/overlay_widget.dart';
 import 'package:flutter/material.dart';
 
 class ThemeSwitcher extends StatefulWidget {
